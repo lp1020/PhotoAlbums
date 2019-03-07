@@ -29,6 +29,8 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'httparty','0.16.4'
 gem 'bootstrap', '~> 4.3.1'
+gem 'webpacker'
+gem 'react-rails'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
